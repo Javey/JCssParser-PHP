@@ -3,7 +3,7 @@ JCssParser-PHP
 
 A lightweight css parser written in php. Reference from [reworkcss](https://github.com/reworkcss/css)
 
-#Useage
+#Usage
 
 ##parse
 
